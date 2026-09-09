@@ -1170,57 +1170,6 @@ This history is then provided to Gemini when generating the next question.
 
 ---
 
-# 📚 What I Learned
-
-This project provided hands-on experience with:
-
-### Generative AI
-
-- Gemini API integration
-- Prompt engineering
-- AI-based evaluation
-- Adaptive question generation
-- Structured JSON generation
-
-### Machine Learning
-
-- Using pretrained deep-learning models
-- Model inference
-- Facial-expression classification
-
-### Computer Vision
-
-- Webcam processing
-- Face detection
-- OpenCV
-- Haar Cascades
-- Image preprocessing
-
-### Streamlit
-
-- Interactive UI development
-- Session state
-- File uploads
-- WebRTC integration
-- Real-time components
-
-### Speech Processing
-
-- Microphone integration
-- Speech-to-text
-- Transcript handling
-
-### Software Development
-
-- API integration
-- Error handling
-- Retry mechanisms
-- Environment variables
-- Git/GitHub
-- Deployment
-
----
-
 # 🏆 Project Highlights
 
 ```text
