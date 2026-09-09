@@ -1,0 +1,11 @@
+opencv-python
+streamlit
+streamlit-webrtc
+streamlit-mic-recorder
+av
+opencv-python-headless
+numpy
+huggingface-hub
+tensorflow
+python-dotenv
+google-genai
