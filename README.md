@@ -1068,44 +1068,6 @@ Start the Streamlit application.
 
 ---
 
-# 🔐 Privacy Considerations
-
-The application processes:
-
-- Candidate resumes
-- Interview answers
-- Webcam frames
-- Facial-expression predictions
-- Speech transcripts
-
-For a production system, additional privacy protections should be implemented.
-
-Recommended improvements include:
-
-- Explicit webcam/microphone consent
-- Secure handling of resumes
-- Avoiding unnecessary resume storage
-- Secure API-key management
-- Clear data-retention policies
-- User-controlled deletion of interview data
-
----
-
-# ⚠️ Limitations
-
-The current version has several limitations.
-
-### Facial Emotion Recognition
-
-Facial expressions can be ambiguous and are influenced by:
-
-- Lighting
-- Camera quality
-- Facial position
-- Background
-- Model limitations
-
-Therefore, emotion predictions should not be considered a reliable psychological assessment.
 
 ### Speech Recognition
 
@@ -1127,46 +1089,6 @@ Gemini-generated questions and evaluations may occasionally be:
 - Overly strict or lenient
 
 The AI evaluation should therefore be treated as interview-practice feedback rather than an authoritative assessment.
-
----
-
-# 🚀 Future Improvements
-
-The project can be extended with:
-
-- [ ] Real-time voice conversation with AI interviewer
-- [ ] AI-generated spoken questions
-- [ ] Interview difficulty selection
-- [ ] Coding interview mode
-- [ ] System design interview mode
-- [ ] HR interview mode
-- [ ] Behavioral interview mode
-- [ ] Interview history
-- [ ] User authentication
-- [ ] Candidate dashboard
-- [ ] Progress tracking
-- [ ] Interview analytics
-- [ ] PDF report generation
-- [ ] Database integration
-- [ ] Advanced speech analysis
-- [ ] Improved emotion recognition
-- [ ] Interview performance trends
-- [ ] Personalized learning recommendations
-
----
-
-# 🧩 Challenges Faced
-
-## Gemini API Integration
-
-Integrating Gemini into the Streamlit application required handling:
-
-- API authentication
-- Resume file uploads
-- Model availability
-- Temporary service failures
-- Response parsing
-- Structured JSON responses
 
 ---
 
