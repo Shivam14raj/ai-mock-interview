@@ -1303,23 +1303,6 @@ If you found this project useful or interesting, consider giving the repository 
 
 ---
 
-# 👨‍💻 Author
-
-## Shivam Raj
-
-Computer Science & Engineering Student
-
-### Interests
-
-- 🤖 Generative AI
-- 🧠 Machine Learning
-- 🔗 LangChain
-- 🔗 LangGraph
-- 🌐 Full-Stack Development
-- 📊 AI Applications
-- 💻 Software Development
-
----
 
 # 📜 License
 
