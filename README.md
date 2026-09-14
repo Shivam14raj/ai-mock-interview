@@ -103,7 +103,7 @@ The system also instructs Gemini not to repeat previous questions.
 
 ---
 
-# 🎤 4. Speech-to-Text
+## 🎤 4. Speech-to-Text
 
 Candidates can answer interview questions using their microphone.
 
@@ -133,7 +133,7 @@ Submit Answer
 
 ---
 
-# 😊 5. Real-Time Facial Emotion Detection
+## 😊 5. Real-Time Facial Emotion Detection
 
 The application includes a webcam-based facial-expression recognition feature.
 
